@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IntelligentSys.iml" filepath="$PROJECT_DIR$/.idea/IntelligentSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenCV-Shapes.iml" filepath="$PROJECT_DIR$/.idea/OpenCV-Shapes.iml" />
     </modules>
   </component>
 </project>

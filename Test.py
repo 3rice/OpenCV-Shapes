@@ -1,5 +1,5 @@
 import cv2
-#Webcam Facial Recognition 
+#Webcam Facial Recognition
 # Load the cascade
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
