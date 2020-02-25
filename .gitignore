@@ -1,2 +1,5 @@
 
 venv/pyvenv.cfg
+.idea/workspace.xml
+.idea/OpenCV-Shapes.iml
+.idea/misc.xml
